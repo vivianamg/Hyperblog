@@ -8,5 +8,6 @@ En el curso estoy aprendiendo:
 - El flujo de trabajo en github 
 - Buenas prácticas 
 - Trucos muy locos del profesor 
+- Creado por el increíble Platzi Team
 
 Y como un amable recordatorio: **Este README.md es un chiste** diseñado con fines académicos, así yo puedo practicar lo que estoy aprendiendo en el [Curso de git y github](http://https://platzi.com/clases/git-github/ "Curso de git y github")
